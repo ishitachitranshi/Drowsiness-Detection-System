@@ -1,0 +1,8 @@
+
+
+opencv-python
+mediapipe
+imutils
+scipy
+numpy
+
